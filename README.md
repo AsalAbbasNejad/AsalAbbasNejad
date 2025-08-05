@@ -16,7 +16,7 @@
 
 
 ---
-##⚙️ Tech Stack
+### 🖥 Skills
 
 **Languages:** Python, C/C++, MATLAB, Arduino Sketch  
 **Embedded Platforms:** STM32 (NUCLEO), ESP32  
@@ -25,15 +25,6 @@
 **Hardware Tools:** Proteus, MPLAB, AutoCAD  
 **Version Control & Docs:** Git, LaTeX, Markdown, Microsoft Office  
 **Project Tools:** Jupyter Notebook, GitHub Projects
-
-
----
-### 🖥 Skills
-
-- Image and Signal Processing
-- Internet of Things
-- Mobile Radio Network
-- Computer Vision
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsalAbbasNejad&show_icons=true&locale=en&layout=compact" alt="AsalAbbasNejad" /></p>
 
