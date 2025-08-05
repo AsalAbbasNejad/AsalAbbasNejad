@@ -23,7 +23,7 @@
 **Signal & Wireless:** FFT, DoA, SAR, TDoA, AoA, Kalman Filtering, Wireshark  
 **Network Design Tools:** Radio Mobile, MWOffice, VSS  
 **Hardware Tools:** Proteus, MPLAB, AutoCAD  
-**Version Control & Docs:** Git, LaTeX, Markdown, Microsoft Office  
+**Version Control & Docs:** Git, LaTeX, Microsoft Office  
 **Project Tools:** Jupyter Notebook, GitHub Projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsalAbbasNejad&show_icons=true&locale=en&layout=compact" alt="AsalAbbasNejad" /></p>
