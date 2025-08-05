@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: asal.abbas@mail.polimi.it
   
-## 📌 About Me
+##  About Me
 
 🎓 MSc student in Telecommunication Engineering @ **Politecnico di Milano**  
 🔬 Interested in **embedded systems**, **IoT**, **signal processing**, and **wireless communication**  
