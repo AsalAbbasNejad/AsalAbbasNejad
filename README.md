@@ -1,5 +1,5 @@
 # Asal Abbasnejad Fard
-**Electronic and electrical Engineer | Embedded Systems Developer | Signal Processing & RF Enthusiast**
+**Electronic and electrical Engineer**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asal-abbasnejad-fard/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:asalabbasnejad29@gmail.com)
