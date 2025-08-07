@@ -45,7 +45,7 @@
 - 📊 **Wi-Fi MAC Behavior Analysis** – Device-level probe analysis using Wireshark and Python  
 - 🔧 **STM32 NUCLEO Suites** – SPI, ADC, UART, and real-time control implementations using embedded C  
 
-> Full list of repositories and code: [github.com/AsalAbbasNejad](https://github.com/AsalAbbasNejad)
+> Full list of repositories and code: [github.com/AsalAbbasNejad]([https://github.com/AsalAbbasNejad](https://github.com/AsalAbbasNejad?tab=repositories))
 
 
 
