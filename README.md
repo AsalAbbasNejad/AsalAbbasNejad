@@ -47,17 +47,5 @@
 
 > Full list of repositories and code: [github.com/AsalAbbasNejad](https://github.com/AsalAbbasNejad)
 
----
-
-## 🔍 Interests & Goals
-
-- Signal and Image Processing  
-- IoT Optimization & Wireless Protocols  
-- Embedded AI & Edge Computing  
-- RF and Radar Systems  
-- Thesis & Research Projects in Germany / EU  
-- Academic or industrial R&D collaboration opportunities  
-
----
 
 
