@@ -32,16 +32,5 @@
 
 ---
 
-## 📂 Notable Projects
-
-- 🚗 **IoT Parking Sensor Energy Optimization** – ESP32-based low-power sensor system with Wokwi simulation  
-- 📡 **Radar Position Estimation** – DoA estimation using ULA/MIMO arrays in MATLAB  
-- 🛰️ **UAV-SAR Imaging** – High-resolution synthetic aperture radar imaging with time-domain back-projection  
-- 📶 **PMR Network Design** – Full RF planning and simulation using Radio Mobile  
-- 📊 **Wi-Fi MAC Behavior Analysis** – Device-level probe analysis using Wireshark and Python  
-- 🔧 **STM32 NUCLEO Suites** – SPI, ADC, UART, and real-time control implementations using embedded C  
-
-> Full list of repositories and code:([https://github.com/AsalAbbasNejad](https://github.com/AsalAbbasNejad?tab=repositories))
-
 
 
