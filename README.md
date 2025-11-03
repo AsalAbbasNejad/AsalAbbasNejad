@@ -11,10 +11,6 @@
 
 - 🎓 MSc student in Telecommunication Engineering @ **Politecnico di Milano**  
 - 🔬 Interested in **embedded systems**, **IoT**, **signal processing**, and **wireless communication**  
-- 🔧 Hands-on experience with python, Matlab, **STM32**, **ESP32**, low-power IoT protocols, radar imaging, RF front-end systems, and sensor networks  
-- 📈 Active contributor to open-source academic projects — from **network optimization** to **real-time embedded design**  
-
-
 ---
 ### 🖥 Skills
 
