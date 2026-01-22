@@ -16,6 +16,7 @@
 
 - Image and Signal Processing
 - Radar Imaging
+- localization and Navigation
 - Autonomous Vehicles
 - IoT
 
