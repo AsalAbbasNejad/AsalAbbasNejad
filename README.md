@@ -10,7 +10,8 @@
 ##  About Me
 
 - 🎓 MSc student in Telecommunication Engineering @ **Politecnico di Milano**  
-- 🔬 Interested in **embedded systems**, **IoT**, **signal processing**, and **wireless communication**  
+- 🔬 Interested in **embedded systems**, **IoT**, **Image and signal processing**, and **Radar Imaging**,  and **Autonomous Vehicles** 
+
 ---
 ### 🖥 Skills
 
